@@ -1,7 +1,6 @@
 #!/bin/zsh
 
 all=0
-skip_git=0
 LANG_D=0
 DIR=""
 LANG=""
