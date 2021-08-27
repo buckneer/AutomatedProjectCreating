@@ -7,7 +7,6 @@ import argparse
 def get_arguments():
 
     parser = argparse.ArgumentParser()
-    parser = argparse.ArgumentParser()
 
     parser.add_argument("name")
 
